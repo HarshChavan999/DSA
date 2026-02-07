@@ -1,3 +1,20 @@
+/**
+ * DSA Practice: Pattern Printing Algorithms
+ * 
+ * This file contains implementations of various pattern printing algorithms
+ * commonly used in programming interviews and DSA practice.
+ * 
+ * Current Implementations:
+ * - Pyramid patterns (with spaces and stars)
+ * - Floyd's Triangle (number pattern)
+ * - 0-1 Triangle pattern
+ * - Butterfly pattern
+ * 
+ * @author Harsh Chavan
+ * @version 1.0
+ * @since 2024
+ */
+
 public class invertedPiramid {   
     public static void piramid (int n){
     for (int i = 1 ; i <= n ; i++){
@@ -85,7 +102,7 @@ public static void butterfly(int n){
        }
 
         System.out.println();
-
+        
     }
         
 

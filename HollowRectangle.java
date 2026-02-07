@@ -1,3 +1,16 @@
+/**
+ * DSA Practice: Pattern Printing
+ * 
+ * This file contains implementations of pattern printing algorithms.
+ * 
+ * Current Implementation:
+ * - Hollow Rectangle: Print a hollow rectangle pattern using stars
+ * 
+ * @author Harsh Chavan
+ * @version 1.0
+ * @since 2024
+ */
+
 class HollowRectangle {
     public static void main(String[] args) {
 
